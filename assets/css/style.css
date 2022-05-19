@@ -1,0 +1,47 @@
+body {
+  font-family: "Cabin", sans-serif;
+  color: #373a3c;
+}
+
+.navbar {
+  background-color: #373a3c;
+  color: white;
+}
+
+.nav_logo {
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+}
+
+.titulo {
+  text-align: left;
+  font-size: 42pt;
+  padding-right: 15%;
+}
+
+
+.ingredientes {
+list-style-type: none;
+  }
+
+.boton_main {
+  border: 1px solid #DDDDDD;
+}
+
+
+.suscribete {
+  background-color: #DC3545;
+  color: white
+  }
+
+.logo {
+  font-family: 'Lobster', cursive;
+}
+
+
+footer {
+  background-color: #373a3c;
+  font-family: 'Lobster', cursive;
+  color: white;
+  font-size: 2.5em;
+}
